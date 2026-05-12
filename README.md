@@ -33,7 +33,7 @@ The codebase provides a complete pipeline for:
 ---
 ### 🔗 Data & Citation
 
-The processed dataset (authority_panel.parquet) is available via Zenodo: https://doi.org/10.5281/zenodo.20134493.
+The processed dataset (authority_panel.parquet) is available via Zenodo: https://doi.org/10.5281/zenodo.20134492.
 
 ---
 ### 🔗 Repository
