@@ -33,9 +33,7 @@ The codebase provides a complete pipeline for:
 ---
 ### 🔗 Data & Citation
 
-The processed dataset (authority_panel.parquet) is available via Zenodo.
-
-A citable archived version of this repository will be deposited on Zenodo upon publication.
+The processed dataset (authority_panel.parquet) is available via Zenodo: https://doi.org/10.5281/zenodo.20134493.
 
 ---
 ### 🔗 Repository
