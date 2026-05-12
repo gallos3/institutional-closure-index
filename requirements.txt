@@ -1,0 +1,6 @@
+neo4j
+pandas
+numpy
+matplotlib
+openpyxl
+pyarrow
